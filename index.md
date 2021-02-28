@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+[Create An Account](Create-Account.html)
+
+[React To Posts](React-To_Post.html)
+
+[Enter A Search](Enter-A-Search.html)
+
+[Recieve Notifications](Recieve-Notifications.html)
+
+[Update Information](Update-Information.html)
+
+[Access To Notifications From Clubs](Access-To-Notifications-From-Clubs.html)
+
 You can use the [editor on GitHub](https://github.com/jmunizt1799/YouCFit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
