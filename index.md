@@ -4,7 +4,7 @@
 
 [Login In](Login.html)
 
-[React To Posts](React-To_Post.html)
+[React To Posts](React-To-Post.html)
 
 [Enter A Search](Enter-A-Search.html)
 
