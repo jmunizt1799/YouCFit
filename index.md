@@ -6,7 +6,7 @@
 
 [React To Posts](React-To-Post.html)
 
-[Enter A Search](Enter-A-Search.html)
+[Enter A Search](Search.html)
 
 [Recieve Notifications](Recieve-Notifications.html)
 
