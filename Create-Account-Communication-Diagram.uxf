@@ -4,7 +4,7 @@ displayPage(“Thank-You-For-Registration.html”)</panel_attributes><additional
 SQLInsert=
 formatSQLInsert(Email, Username, ConfirmPassword,
 Height, Weight, BMI, Picture, Activities, GymMemberships,
-Links)</panel_attributes><additional_attributes>10;50;70;50;70;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>450</x><y>337</y><w>380</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+Links, ProfileDescription)</panel_attributes><additional_attributes>10;50;70;50;70;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>450</x><y>337</y><w>380</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
 runQuery(SQLInsert)</panel_attributes><additional_attributes>360;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>450</x><y>367</y><w>380</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
 Success</panel_attributes><additional_attributes>10;20;360;20</additional_attributes></element><element><id>Relation</id><coordinates><x>800</x><y>60</y><w>30</w><h>380</h></coordinates><panel_attributes>lt=.</panel_attributes><additional_attributes>10;10;10;360</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>760</x><y>40</y><w>100</w><h>30</h></coordinates><panel_attributes>_Database_</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>960</x><y>40</y><w>100</w><h>30</h></coordinates><panel_attributes>/AbstractClass/
 </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>70</x><y>117</y><w>410</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
@@ -12,4 +12,5 @@ calculateBMI(Height, Weight)</panel_attributes><additional_attributes>390;20;10;
 addProfilePicture(Picture)</panel_attributes><additional_attributes>390;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>70</x><y>177</y><w>410</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
 addActivities(Activities)</panel_attributes><additional_attributes>390;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>70</x><y>237</y><w>410</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
 linkAccounts(Links)</panel_attributes><additional_attributes>390;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>70</x><y>207</y><w>410</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
-addCurrentGymMembership(GymMemberships)</panel_attributes><additional_attributes>390;20;10;20</additional_attributes></element></diagram>
+addCurrentGymMembership(GymMemberships)</panel_attributes><additional_attributes>390;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>70</x><y>257</y><w>410</w><h>40</h></coordinates><panel_attributes>lt=&lt;-
+Description(Text)</panel_attributes><additional_attributes>390;20;10;20</additional_attributes></element></diagram>
