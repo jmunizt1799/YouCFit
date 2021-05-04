@@ -12,6 +12,8 @@
 
 [Update Information](Update-Information.html)
 
+[Login to Club](Login-To-Club.html)
+
 [Access To Notifications From Clubs](Access-To-Notifications-From-Clubs.html)
 
 You can use the [editor on GitHub](https://github.com/jmunizt1799/YouCFit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
