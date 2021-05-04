@@ -12,6 +12,8 @@
 
 [Update Information](Update-Information.html)
 
+[Sign-Up-For-Club-Membership](Sign-Up-For-Club-Memebership.html)
+
 [Login to Club](Login-To-Club.html)
 
 [Access To Notifications From Clubs](Access-To-Notifications-From-Clubs.html)
